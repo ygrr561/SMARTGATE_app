@@ -1,0 +1,6 @@
+{
+  "name": "SmartGate — AI-Powered Apartment Security & Management System",
+  "description": "Comprehensive full-stack security and apartment management system featuring AI visitor risk scoring, real-time gate approvals, deliveries, domestic help, billing, complaints, amenities, and guard operations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
